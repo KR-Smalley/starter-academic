@@ -12,29 +12,15 @@ design:
     image_darken: 0
   columns: ""
 ---
-I am a health policy researcher interested in Patient-Centered Healthcare: 
-
-*
-
-My work is mixed-methods, and I am especially interested in repurposing the vast amounts of data that are routinely collected by health services to improve access to, and the quality and efficiency of, healthcare. 
-
-I grew up in the United States, and received my postgraduate training in the UK. My undergraduate degree is in Political Economy from Tulane University. My MSc is in International Health Policy from the London School of Economics and Political Science. My PhD is in Health Services Research from the Institute of Global Health Innovation at Imperial College London.
-
-
-
-
-
 Katelyn Smalley is a mixed-methods health policy researcher with a primary interest in the notion of Patient-Centered Care: 
 
 * What is it? 
 * How do we know when it exists or not? 
 * How can health systems get better at providing it?
 
-She has worked in both the US and the UK, focusing on access to and quality of healthcare, especially for people with chronic health conditions. She has covered topics such as: 
+She has worked in both the US and the UK, focusing on access to and quality of healthcare, especially for people with chronic health conditions. 
 
 She holds a PhD in Health Services Research from Imperial College London's Institute of Global Health Innovation, as well as an MSc in International Health Policy from LSE, and a BA(Hons) in Political Economy from Tulane University in New Orleans. 
-
-
 
 Current Affiliations
 
@@ -44,17 +30,11 @@ University College London - Honorary Research Fellow, Centre for Research In Aut
 
 Devon Clinical Commissioning Group - Health Equity Evaluation Researcher
 
-
-
 Previous Affiliations
 
 Medicare Payment Advisory Commission (MedPAC)
 
 Greater New York Hospital Association (GNYHA)
-
-
-
-
 
 *
 *
